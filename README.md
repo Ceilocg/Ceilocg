@@ -11,9 +11,13 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.vercel.app/?user=Ceilocg&theme=tokyonight" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<div align="center" style="display: flex; gap: 1%; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" height="200px"/>
+</div>
+
+---
 
 📈 **Overall Contributions**:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceilocg&theme=github-dark" alt="GitHub Activity Graph"/>
