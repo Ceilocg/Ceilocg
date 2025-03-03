@@ -1,9 +1,6 @@
-## 🌌 <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+to+my+GitHub!;Always+learning+and+building!;Let's+collaborate!" alt="Typing SVG"/> 👋
+## <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+to+my+GitHub!;Always+learning+and+building!;Let's+collaborate!" alt="Typing SVG"/> 👋
 
 🚀 **Frontend & Backend Developer**
-
-I specialize in creating modern web applications, optimizing backend performance, and contributing to open-source projects. Passionate about clean code, UI/UX, and automation!
-
 ---
 
 ### 🚀 Tech Stack
