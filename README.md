@@ -1,5 +1,4 @@
-## <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+to+my+GitHub!;Always+learning+and+building!;Let's+collaborate!" alt="Typing SVG"/> 👋
-
+## <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+to+my+GitHub!;Always+learning+and+building!;Let's+collaborate!" alt="Typing SVG"/> 
 🚀 **Frontend & Backend Developer**
 ---
 
