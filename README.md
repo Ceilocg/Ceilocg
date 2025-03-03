@@ -1,6 +1,6 @@
 ### Hi there, I'm Ceilocg! 👋
 
-🚀 **Frontend Developer | Backend Developer**
+🚀 **Frontend Developer**
 
 ---
 
@@ -11,11 +11,24 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight)
+>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ceilocg&theme=tokyonight)
+>![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ceilocg&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight)
+>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceilocg&theme=tokyonight" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -30,7 +43,7 @@
 
 ---
 
-### 🔥 Animated GitHub Activity
+### 🔥 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ceilocg&theme=tokyonight)
 
 ---
