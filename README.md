@@ -14,7 +14,7 @@
 
 <div align="center" style="display: flex; gap: 1%; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" height="220px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" height="209px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight" alt="Top Languages" width="50%" height="190px"/>
 </div>
 
 ---
