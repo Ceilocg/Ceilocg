@@ -11,11 +11,6 @@
 ---
 
 ### 📊 GitHub Stats
->![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight)
-
->![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ceilocg&theme=tokyonight)
-
->![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight)
 
 <table>
   <tr>
