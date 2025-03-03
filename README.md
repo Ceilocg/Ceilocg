@@ -35,7 +35,7 @@
 ---
 
 ### 🔥 Fun Fact
-🎮 I love gaming, playing guitar, and tinkering with new tech in my free time! 🎸
+🎮 I love gaming and playing guitar in my free time! 🎸
 
 ---
 
