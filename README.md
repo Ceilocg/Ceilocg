@@ -13,7 +13,7 @@
 
 🎨 **Frontend & Backend Developer** | 🎯 **Problem Solver**  
 
-👋 Hi, I'm **Ceilo Gabotero**, a passionate **Full-Stack Developer** committed to building **modern, high-performance web applications**. I specialize in **UI/UX-focused frontend development** and **scalable backend architectures**, ensuring seamless and efficient user experiences.  
+👋 Hi, I'm **Ceilo Gabotero**, a passionate **Full-Stack Developer** 
 
 I thrive on **solving complex problems**, constantly **exploring new technologies**, and pushing the boundaries of innovation. Whether it's designing intuitive user interfaces or developing robust backend systems, I'm always eager to create impactful solutions. 🚀  
 
