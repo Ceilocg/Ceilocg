@@ -12,13 +12,11 @@
 ## 🚀 About Me
 
 🎨 **Frontend & Backend Developer** | 🎯 **Problem Solver**  
+✨ **Curiosity, Hard Work, and Imagination are My Strengths** ✨  
 
 👋 Hi, I'm **Ceilo Gabotero**, a passionate **Full-Stack Developer** 
 
 I thrive on **solving complex problems**, constantly **exploring new technologies**, and pushing the boundaries of innovation. Whether it's designing intuitive user interfaces or developing robust backend systems, I'm always eager to create impactful solutions. 🚀  
-
-✨ **Curiosity, Hard Work, and Imagination are My Strengths** ✨  
-
 
 ---
 
