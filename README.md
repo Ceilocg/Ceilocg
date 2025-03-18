@@ -59,13 +59,6 @@ I love **building scalable applications**, exploring **new technologies**, and c
 
 ---
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ceilocg&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 🌎 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/ceilo-gabotero-2a4923346" target="_blank">
