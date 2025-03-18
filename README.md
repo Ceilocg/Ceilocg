@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=🚀+Welcome+to+my+GitHub!;✨+Always+learning+and+building!;💡+Let's+collaborate!;🎨+Full-Stack+Developer!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=%F0%9F%9A%80+Welcome+to+my+GitHub!;%E2%9C%A8+Always+learning+and+building!;%F0%9F%92%A1+Let's+collaborate!;%F0%9F%8E%A8+Full-Stack+Developer!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@ I love **building scalable applications**, exploring **new technologies**, and c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
 </p>
 
 ### ⚡ Frameworks & Tools  
@@ -32,6 +33,13 @@ I love **building scalable applications**, exploring **new technologies**, and c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
+</p>
+
+### 🎨 Frontend Technologies  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
 </p>
 
 ### 🗄️ Databases  
@@ -53,8 +61,17 @@ I love **building scalable applications**, exploring **new technologies**, and c
   </a>
 </div>
 
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ceilocg&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceilocg&theme=github-dark" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceilocg&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -74,4 +91,5 @@ I love **building scalable applications**, exploring **new technologies**, and c
 
 ---
 
-🚀 **Explore my repositories and let's build something amazing together!** ✨  
+🚀 **Explore my repositories and let's build something amazing together!** ✨
+
