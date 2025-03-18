@@ -70,10 +70,6 @@ I love **building scalable applications**, exploring **new technologies**, and c
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceilocg&theme=github-dark" alt="GitHub Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceilocg&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
 ---
 
 ## 🌎 Connect With Me  
