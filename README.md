@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=🚀+Welcome+to+my+GitHub!;✨+Always+learning+and+building!;💡+Let's+collaborate!;🎨+Frontend+%26+Backend+Developer!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=🚀+Welcome+to+my+GitHub!;✨+Always+learning+and+building!;💡+Let's+collaborate!;🎨+Full-Stack+Developer!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -9,57 +9,49 @@
 
 ---
 
-## 🚀 About Me
-
-🎨 **Frontend & Backend Developer** | 🎯 **Problem Solver**  
-✨ **Curiosity, Hard Work, and Imagination are My Strengths** ✨  
-
-👋 Hi, I'm **Ceilo Gabotero**, a passionate **Full-Stack Developer** 
-
-I thrive on **solving complex problems**, constantly **exploring new technologies**, and pushing the boundaries of innovation. Whether it's designing intuitive user interfaces or developing robust backend systems, I'm always eager to create impactful solutions. 🚀  
+## 🚀 About Me  
+👋 Hi, I'm **Ceilo Gabotero**, a passionate **Full-Stack Developer**.  
+I specialize in **backend development, frontend design, and problem-solving**.  
+I love **building scalable applications**, exploring **new technologies**, and creating **meaningful projects** that make an impact. 🚀  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
 ### 🖥️ Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
 </p>
 
 ### ⚡ Frameworks & Tools  
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity Overview  
 
 <div align="center">
   <a href="https://github.com/Ceilocg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
   </a>
   <a href="https://github.com/Ceilocg">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
   </a>
 </div>
-
----
-
-## 📈 Contribution Activity  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceilocg&theme=github-dark" alt="GitHub Activity Graph"/>
@@ -67,8 +59,14 @@ I thrive on **solving complex problems**, constantly **exploring new technologie
 
 ---
 
-## 🌎 Connect With Me  
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ceilocg&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
+</p>
 
+---
+
+## 🌎 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/ceilo-gabotero-2a4923346" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -79,18 +77,6 @@ I thrive on **solving complex problems**, constantly **exploring new technologie
   <a href="mailto:ceilofurogabotero@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
----
-
-## 🔥 Fun Fact  
-🎮 I love gaming and playing guitar in my free time! 🎸  
-
----
-
-## 🎵 Profile Widgets  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ceilocg&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
