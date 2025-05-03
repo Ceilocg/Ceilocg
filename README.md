@@ -1,91 +1,77 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=%F0%9F%9A%80+Welcome+to+my+GitHub!;%E2%9C%A8+Always+learning+and+building!;%F0%9F%92%A1+Let's+collaborate!;%F0%9F%8E%A8+Full-Stack+Developer!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=9B59B6&size=28&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Building+solutions+with+passion;Full-Stack+Developer;Always+learning+%26+improving" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Ceilocg?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Ceilocg?label=Stars&style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Ceilocg&color=9B59B6&style=flat-square" alt="Profile Views">
 </p>
 
 ---
 
-## 🚀 About Me  
-👋 Hi, I'm **Ceilo Gabotero**, a passionate **Full-Stack Developer**.  
-I specialize in **backend development, frontend design, and problem-solving**.  
-I love **building scalable applications**, exploring **new technologies**, and creating **meaningful projects** that make an impact. 🚀  
+## 👩‍💻 About Me
+
+**Hi, I'm Ceilo Gabotero — a Full-Stack Developer.**
+
+I am passionate about building scalable solutions, clean architecture, and seamless user experiences.  
+I work with both frontend and backend technologies to deliver high-quality applications.  
+Driven by curiosity and growth, I always strive to learn and apply new skills in my projects.
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Tech Stack
 
-### 🖥️ Languages  
+### Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,php" />
 </p>
 
-### ⚡ Frameworks & Tools  
+### Frameworks & Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,tailwind,github" />
 </p>
 
-### 🎨 Frontend Technologies  
+### Databases
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
-</p>
-
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
 ---
 
-## 📊 GitHub Activity Overview  
+## 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Ceilocg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
-  </a>
-  <a href="https://github.com/Ceilocg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-  </a>
-</div>
-
-### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ceilocg&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight&hide_border=true" height="160px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight&hide_border=true" height="160px">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceilocg&theme=github-dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ceilocg&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 🌎 Connect With Me  
+## 📫 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ceilo-gabotero-2a4923346" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ceilocg" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:ceilofurogabotero@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-9B59B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
 ---
 
-🚀 **Explore my repositories and let's build something amazing together!** ✨
-
+<p align="center">
+  <b>Let's create impactful and incredible projects together.</b> 🚀
+</p>
