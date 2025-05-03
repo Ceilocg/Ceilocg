@@ -9,7 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=Ceilocg&color=DB4CFF&style=flat-square" alt="Profile Views">
 </p>
 
----
+<p align="center">
+  <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
+</p>
 
 ## 👩‍💻 About Me
 
@@ -19,8 +21,9 @@ Passionate about clean architecture, scalable solutions, and seamless user exper
 Always curious and driven to learn new technologies and sharpen my skills.
 
 
----
-
+<p align="center">
+  <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
+</p>
 ## 🚀 Tech Stack
 
 ### Languages
@@ -38,7 +41,9 @@ Always curious and driven to learn new technologies and sharpen my skills.
   <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql" />
 </p>
 
----
+<p align="center">
+  <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
+</p>
 
 ## 📈 GitHub Stats
 
@@ -53,7 +58,9 @@ Always curious and driven to learn new technologies and sharpen my skills.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceilocg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -61,7 +68,9 @@ Always curious and driven to learn new technologies and sharpen my skills.
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
+</p>
 
 ## 📫 Connect with Me
 
@@ -77,7 +86,9 @@ Always curious and driven to learn new technologies and sharpen my skills.
   </a>  
 </p>
 
----
+<p align="center">
+  <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+❤️;Let's+build+something+awesome+together!" alt="Thanks for visiting">
