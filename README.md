@@ -13,8 +13,7 @@
   <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
 </p>
 
-## 👩‍💻 About Me
-
+ 👩‍💻 About Me
 **Hi, I'm Ceilo Gabotero — a Full-Stack Developer.**
 
 Passionate about clean architecture, scalable solutions, and seamless user experience.  
@@ -24,7 +23,7 @@ Always curious and driven to learn new technologies and sharpen my skills.
 <p align="center">
   <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
 </p>
-## 🚀 Tech Stack
+
 
 ### Languages
 <p align="center">
@@ -45,7 +44,7 @@ Always curious and driven to learn new technologies and sharpen my skills.
   <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
 </p>
 
-## 📈 GitHub Stats
+ 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight&hide_border=true" height="150px">
@@ -62,7 +61,7 @@ Always curious and driven to learn new technologies and sharpen my skills.
   <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
 </p>
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
