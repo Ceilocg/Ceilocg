@@ -1,6 +1,5 @@
 <!-- Animated background (gradient particles) -->
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=DB4CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Building+solutions+with+passion;Full-Stack+Developer;Always+learning+%26+improving" alt="Typing SVG">
 </p>
@@ -19,23 +18,20 @@
 Passionate about clean architecture, scalable solutions, and seamless user experience.  
 Always curious and driven to learn new technologies and sharpen my skills.
 
-
 <p align="center">
   <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
 </p>
 
+### 🚀 Languages & Tools
 
-### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,php" />
 </p>
 
-### Frameworks & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,django,tailwind,github" />
 </p>
 
-### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql" />
 </p>
@@ -44,17 +40,17 @@ Always curious and driven to learn new technologies and sharpen my skills.
   <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
 </p>
 
- 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight&hide_border=true" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight&hide_border=true" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ceilocg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceilocg&layout=compact&theme=tokyonight&hide_border=true" height="150">
 </p>
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceilocg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ceilocg&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
