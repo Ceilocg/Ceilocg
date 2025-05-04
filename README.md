@@ -13,7 +13,7 @@
 </p>
 
 ### 👩‍💻 About Me
-**Hi, I'm Ceilo Gabotero — a Full-Stack Developer.**
+**Hi, I'm Ceilo Gabotero — a Full-Stack Developer.** <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30" />
 
 Passionate about clean architecture, scalable solutions, and seamless user experience.  
 Always curious and driven to learn new technologies and sharpen my skills.
@@ -52,6 +52,18 @@ Always curious and driven to learn new technologies and sharpen my skills.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ceilocg&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
+</p>
+
+### 🏆 Achievements 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ceilocg&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+</p>
+
+
 
 <p align="center">
   <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
