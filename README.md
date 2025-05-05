@@ -83,7 +83,7 @@ Always curious and driven to learn new technologies and sharpen my skills.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ceilo-gabotero-2a4923346" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-E91E63?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-BA68C8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ceilocg" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
