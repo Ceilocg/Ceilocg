@@ -1,4 +1,7 @@
 <!-- Animated background (gradient particles) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=D8B4FE&text=Ceilo%20F.%20Gabotero&fontColor=4B0082&fontSize=100&animation=scaleIn&rotate=360&strokeWidth=12&desc=Creative%20%7C%20Frontend%20Developer&descAlign=67&descAlignY=96&stroke=2&section=header" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=DB4CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Building+solutions+with+passion;Full-Stack+Developer;Always+learning+%26+improving" alt="Typing SVG">
@@ -13,7 +16,7 @@
 </p>
 
 ### 👩‍💻 About Me
-**Hi, I'm Ceilo Gabotero — a Full-Stack Developer.** <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30" />
+**Hi!** <img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30" />
 
 Passionate about clean architecture, scalable solutions, and seamless user experience.  
 Always curious and driven to learn new technologies and sharpen my skills.
