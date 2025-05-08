@@ -32,12 +32,13 @@ Always curious and driven to learn new technologies and sharpen my skills.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,tailwind,github" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,tailwind,github,vite" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,postman,vercel" />
 </p>
+
 
 <p align="center">
   <img src="https://singlecolorimage.com/get/DB4CFF/1200x3" alt="purple line" />
