@@ -1,6 +1,6 @@
 <!-- Animated background (gradient particles) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=D8B4FE&text=Ceilo%20F.%20Gabotero&fontColor=4B0082&fontSize=100&animation=scaleIn&rotate=360&strokeWidth=12&desc=Creative%20%7C%20Frontend%20Developer&descAlign=67&descAlignY=96&stroke=2&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=DB4CFF&text=Ceilo%20F.%20Gabotero&fontColor=FFFFFF&fontSize=100&animation=scaleIn&rotate=360&strokeWidth=12&desc=Creative%20%7C%20Frontend%20Developer&descAlign=67&descAlignY=96&stroke=2&section=header" />
 </p>
 
 <p align="center">
