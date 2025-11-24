@@ -1,7 +1,7 @@
 <!-- Animated background (gradient particles) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=DB4CFF&text=Ceilo%20Gabotero&fontColor=FFFFFF&fontSize=100&animation=scaleIn&rotate=360&strokeWidth=12&desc=Creative%20%7C%20Frontend%20Developer&descAlign=67&descAlignY=96&stroke=2&section=header" />
-</p>
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=DB4CFF&text=Ceilo%20Gabotero&fontColor=FFFFFF&fontSize=100&animation=scaleIn&rotate=360&strokeWidth=12&desc=Creative%20%7C%20Frontend%20Developer&descAlign=67&descAlignY=96&stroke=2&section=header" /> 
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=DB4CFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub;Building+solutions+with+passion;Frontend+Developer;Always+learning+%26+improving" alt="Typing SVG">
